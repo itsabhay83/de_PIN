@@ -11,7 +11,9 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@types/jsonwebtoken": "^9.0.9",
+    "db": "*",
     "express": "^4.21.2",
-    "db": "*"
+    "jsonwebtoken": "^9.0.2"
   }
 }
